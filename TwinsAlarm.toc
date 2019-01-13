@@ -1,0 +1,5 @@
+## Interface: 20400
+## Title: TwinsAlarm
+## Author: X58A-UD3R#5177
+## Notes: Turns your screen red if you get "Conflagration".
+TwinsAlarm.xml
